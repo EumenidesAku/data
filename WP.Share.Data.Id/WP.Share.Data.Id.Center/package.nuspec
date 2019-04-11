@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <!--*-->
+    <id>WP.Share.Data.Id.Center</id>
+    <!--*-->
+    <version>1.0.1</version>
+    <title>中心ID发号器</title>
+    <!--*-->
+    <authors>tony</authors>
+    <owners>Weipan</owners>
+    <!--
+    <licenseUrl></licenseUrl>
+    <projectUrl></projectUrl>
+    
+    <iconUrl></iconUrl>
+-->
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <!--*-->
+    <description>中心发号器</description>
+    <!--*-->
+    <releaseNotes>统一了命名空间的格式</releaseNotes>
+    <copyright>Copyright ©  2018</copyright>
+    <tags>
+    </tags>
+    <dependencies>
+      <!--
+      <dependency id="SampleDependency" version="1.0" />
+-->
+    </dependencies>
+  </metadata>
+</package>

@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <!--*-->
+    <id>WP.Share.Data.Id.Helper</id>
+    <!--*-->
+    <version>1.0.1</version>
+    <title>WP.Share.Data.Id.Helper</title>
+    <!--*-->
+    <authors>杭州微盘信息技术有限公司</authors>
+    <owners>杭州微盘信息技术有限公司</owners>
+    <!--
+    <licenseUrl></licenseUrl>
+    <projectUrl></projectUrl>
+    <iconUrl></iconUrl>
+-->
+    <projectUrl>http://code.weipan.com/share/data/tree/master/Weipan.Share.Data.Id/WP.Share.Data.Id.Helper</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <!--*-->
+    <description>Id解析帮助</description>
+    <!--*-->
+    <releaseNotes>Id解析发布</releaseNotes>
+    <copyright>Copyright ©  2019</copyright>
+    <tags>Id解析帮助 </tags>
+    <dependencies>
+      <!--
+      <dependency id="SampleDependency" version="1.0" />
+-->
+    </dependencies>
+  </metadata>
+</package>

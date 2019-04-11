@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <!--*-->
+    <id>WP.Share.Data.Id.Single</id>
+    <!--*-->
+    <version>1.0.3</version>
+    <title>WP.Share.Data.Id.Single</title>
+    <!--*-->
+    <authors>杭州微盘信息技术有限公司</authors>
+    <owners>杭州微盘信息技术有限公司</owners>
+    <!--
+    <licenseUrl></licenseUrl>    
+    <iconUrl></iconUrl>
+-->
+    <projectUrl>http://code.weipan.com/share/data/tree/master/Weipan.Share.Data.Id/WP.Share.Data.Id.Single</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <!--*-->
+    <description>Id单机生成器</description>
+    <!--*-->
+    <releaseNotes>重新引用了加密模块</releaseNotes>
+    <copyright>Copyright ©  2018</copyright>
+    <tags>单机Id </tags>
+    <dependencies>
+      <!--
+      <dependency id="SampleDependency" version="1.0" />
+-->
+    </dependencies>
+  </metadata>
+</package>
